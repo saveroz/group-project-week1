@@ -43,13 +43,13 @@ p.top-paragraph {
 }
 .header li{
     display: inline-block;
-    margin: 50px;
+    margin: 40px;
 }
 
-h1{
+h1,h2{
     text-align: center;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 25px;
+    font-family: 'Pacifico', sans-serif;
+    font-size: 40px;
     font-weight: 700;
  }
 img{
@@ -57,15 +57,12 @@ img{
     width:auto;
 }
  footer{
-     height:80px;
+     height:auto;
      width: 100%;
      background-color: grey;
      display: block;
      text-align: center;
-     font-family: fantasy;
-     font-weight: lighter;
-     font-style:italic;
-     padding: 10px;
+     padding: 1px;
  }
  p{
      text-align:justify;
